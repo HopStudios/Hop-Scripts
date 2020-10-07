@@ -4,7 +4,7 @@
     Hop Change MSM Primary Site
     INSTRUCTIONS
     Please find instructions here:
-    https://gitlab.com/hop-studios/hoperations/-/wikis/ee-development/Remove-MSM-site-installation-to-keep-a-non-default-site
+    https://github.com/HopStudios/Hop-Scripts/
 */
 
 // SET THESE VARIABLES
